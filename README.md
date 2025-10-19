@@ -1,5 +1,5 @@
 
-  # Bilingual Health Companion App
+  # Healthmate App
 
 
   
